@@ -1,0 +1,6 @@
+- What are the inhibition times in the A.I.ini? They look like stun times for different enemy attacks.
+- can i add b_explodes rats=False to wind blast?
+- Dishonoredpowers.ini contains some settings about blink. might be able to change distance and such there.
+- dishonoredweapons contains a value called: bdisableHitReaction. Literally makes enemies not react when hit if set for that attack.
+- dishoncontactsystem.ini changes what happens to objects when hit, or if you can stick springrazors or stickynades on them
+- dishonoredpower.ini changes effects for blink and time stop and winblast
